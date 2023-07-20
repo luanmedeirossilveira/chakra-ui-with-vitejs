@@ -1,0 +1,9 @@
+$backgroundImage: "https://etimg.etb2bimg.com/photo/90424361.cms";
+
+.main {
+  // background-image: url($backgroundImage);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
